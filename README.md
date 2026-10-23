@@ -1,6 +1,6 @@
 # Hi 👋, I'm Krishanu
 # 💫 About Me:
-🎓 Sophomore pursuing a degree in AI/ML Engineering<br>🚀 Exploring AI, machine learning, and cybersecurity<br>🧩 Sharpening skills in competitive programming and system design<br>🎨 Proficient in Photoshop, Illustrator, and Figma for design<br>🌀 Learning Blender and After Effects for 3D and motion design<br>🤝 Open to collaborations in AI, web development, security, and design
+🎓 Pre-final year student pursuing a degree in AI/ML Engineering<br>🚀 Exploring AI, machine learning, and cybersecurity<br>🧩 Sharpening skills in competitive programming and system design<br>🎨 Proficient in Photoshop, Illustrator, and Figma for design<br>🌀 Learning Blender and After Effects for 3D and motion design<br>🤝 Open to collaborations in AI, web development, security, and design
 
 
 ## 🌐 Socials:
